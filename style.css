@@ -1,0 +1,79 @@
+a {
+  color: #19a883;
+  text-decoration: none;
+
+}
+a:visited{
+  color: #19a883;
+}
+a:hover{
+  color: #119edb;
+  font-size: 150%
+}
+
+h1 {
+  color: #235fa8;
+  font-weight: bold;
+}
+h2 {
+  font-family: 'Lobster', serif;
+  text-align: center;
+}
+header {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  border-style: solid;
+  border-color: #235fa8;
+  margin-top: 8px;
+}
+body{
+  width: 90%;
+  text-align: center;
+  margin: 0 auto;
+}
+nav a{
+  color: #235fa8
+}
+nav a:visited{
+  color: #235fa8
+}
+nav a:hover{
+  color: #119edb
+}
+
+table{
+  margin: 0 auto;
+}
+p {
+  font-size: 110%;
+}
+#homelink{
+  color:#086028;
+  font-size: 100%
+}
+#places_to_adopt_dogs{
+  font-family: 'Muli', serif;
+  padding-bottom: 10px;
+}
+.Muli{
+  font-family: 'Muli', serif;
+}
+
+.nobullets{
+  list-style-type: none;
+}
+.blue{
+  color: #235fa8
+}
+.bigger{
+  font-size: 150%
+}
+.hyperlinks{
+  list-style: none;
+
+}
+
+.hyperlinks a:hover{
+  color:#19a883;
+}
