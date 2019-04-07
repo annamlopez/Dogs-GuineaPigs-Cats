@@ -49,6 +49,12 @@ table{
 p {
   font-size: 110%;
 }
+table{
+  border-collapse: collapse;
+}
+table,th,td {
+  border:1px solid black;
+}
 #homelink{
   color:#086028;
   font-size: 100%
